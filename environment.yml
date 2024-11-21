@@ -30,6 +30,7 @@ dependencies:
       - attrs==24.2.0
       - autograd==1.7.0
       - babel==2.16.0
+      - backcall==0.2.0
       - beautifulsoup4==4.12.3
       - binaryornot==0.4.4
       - bleach==6.2.0
@@ -48,6 +49,7 @@ dependencies:
       - defusedxml==0.7.1
       - deprecated==1.2.14
       - dill==0.3.9
+      - docopt==0.6.2
       - exceptiongroup==1.2.2
       - executing==2.1.0
       - fastjsonschema==2.20.0
@@ -61,7 +63,7 @@ dependencies:
       - importlib-metadata==8.5.0
       - importlib-resources==6.4.5
       - ipykernel==6.29.5
-      - ipython==8.18.1
+      - ipython==8.12.3
       - ipython-genutils==0.2.0
       - ipywidgets==8.1.5
       - isoduration==20.11.0
@@ -92,6 +94,8 @@ dependencies:
       - memory-profiler==0.61.0
       - missingno==0.5.2
       - mistune==3.0.2
+      - mypy==1.13.0
+      - mypy-extensions==1.0.0
       - nbclassic==0.5.6
       - nbclient==0.10.0
       - nbconvert==7.16.4
@@ -105,7 +109,9 @@ dependencies:
       - pandocfilters==1.5.1
       - parso==0.8.4
       - pexpect==4.9.0
+      - pickleshare==0.7.5
       - pillow==11.0.0
+      - pipreqs==0.5.0
       - platformdirs==4.3.6
       - plotly==5.24.1
       - prometheus-client==0.21.0
@@ -129,6 +135,7 @@ dependencies:
       - rfc3986-validator==0.1.1
       - rich==13.9.4
       - rpds-py==0.21.0
+      - ruff==0.7.4
       - scipy==1.13.1
       - seaborn==0.13.2
       - send2trash==1.8.3
@@ -158,5 +165,6 @@ dependencies:
       - websocket-client==1.8.0
       - widgetsnbextension==4.0.13
       - wrapt==1.16.0
+      - yarg==0.1.9
       - zipp==3.21.0
 prefix: /opt/anaconda3/envs/can_you_moo

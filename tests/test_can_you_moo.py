@@ -5,7 +5,6 @@
 import pytest
 
 
-from can_you_moo import can_you_moo
 
 
 @pytest.fixture
